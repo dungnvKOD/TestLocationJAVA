@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
 //        getActionBar().hide();
 
         init();
+
+
     }
 
     private void init() {//ve lam trong suot thnah stas bar
