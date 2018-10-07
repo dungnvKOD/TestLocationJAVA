@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     private MapManager mapManager;
     private boolean isMapResdy;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
