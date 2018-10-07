@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private SupportMapFragment frgGooGleMap;
     private MapManager mapManager;
+
     private boolean isMapResdy;
 
 
