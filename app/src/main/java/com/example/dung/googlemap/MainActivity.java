@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
         init();
 
 
+
+
     }
 
     private void init() {//ve lam trong suot thnah stas bar
